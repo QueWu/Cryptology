@@ -1,5 +1,5 @@
 # Cryptology
-Chaos based cryptographic excersise.
+Chaos based cryptographic exercise.
 
 A:
 It is required to design a Hash function which generates a 16-bit key from a PIN
