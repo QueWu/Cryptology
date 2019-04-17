@@ -1,3 +1,6 @@
+%{  Design a Steganography function 'watermark' using a coding language of your choice to watermark a grey-level image
+    with another binary image based on the method proposed. %}
+
 function watermark()
     clear;
     ratio = 0.01;
